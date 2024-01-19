@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 reqwest = "0.11.23"
-tokio = { version = "1", features = ["full"] }
 scraper = "0.18.1"
 thirtyfour = "0.31.0"
 regex = "1.5.4"
+tokio = "1.35.1"
